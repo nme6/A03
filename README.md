@@ -47,6 +47,9 @@
       - Option 1: Press Alt+0, click the unversioned files, right-click, and click "Add to VCS".
       - Option 2: Choose the "Add to Git" option, choose the files you would like to add, and click "Add" to add the local files.
    2) To **commit** the changes you made:
-      - Ctrl + K, add your **commit** message, and hit **Commit**.
+      - Ctrl+K, add your **commit** message, and hit **Commit**.
    3) To **push** the changes you made to your GitHub:
-      1) 
+      1) Ctrl+Shift+K or clicking Git in your top bar and then **Push**
+      2) Click the big blue **Push** button.
+
+Congratulations! You **pushed** your commits to GitHub and have successfully done everything you needed to do.
