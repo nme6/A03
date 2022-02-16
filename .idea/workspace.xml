@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e86994-dc9e-4c6d-9cdc-104572a04d03" name="Changes" comment="Fix: Almost finished with Part 1 of A03">
+    <list default="true" id="b3e86994-dc9e-4c6d-9cdc-104572a04d03" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +56,7 @@
       <updated>1644880216990</updated>
       <workItem from="1644880218356" duration="13068000" />
       <workItem from="1645037499382" duration="1347000" />
-      <workItem from="1645038869002" duration="352000" />
+      <workItem from="1645038869002" duration="1815000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Repository created &#10;Feature: Added workflow with directions on downloading and installing programs needed.">
       <created>1644990670741</created>
@@ -85,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645038629340</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fix: Finished Part 1 of A03">
+      <created>1645039270022</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645039270022</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,8 +122,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task: Repository created &#10;Feature: Added workflow with directions on downloading and installing programs needed." />
-    <MESSAGE value="Fix: Finished Part 1 of A03" />
     <MESSAGE value="Fix: Almost finished with Part 1 of A03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix: Almost finished with Part 1 of A03" />
+    <MESSAGE value="Fix: Finished Part 1 of A03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix: Finished Part 1 of A03" />
   </component>
 </project>
